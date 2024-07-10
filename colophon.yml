@@ -1,0 +1,8 @@
+version: 2.0
+
+id: action-changed-files
+
+about:
+  title: Changed Files
+  description: detect and list changed files in push & pull_requests events using `git diff <pathspec>`
+  repository: khulnasoft/token-inspect
