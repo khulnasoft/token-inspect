@@ -443,7 +443,7 @@ class GHActionsProxy:
             name='hosts',
             typespec=str,
             default='',
-            help='Comma delimited list of hosts to monitor',
+            help='Comma delimited list of hosts to inspect',
         )
         loader.add_option(
             name='GITHUB_API_URL',
